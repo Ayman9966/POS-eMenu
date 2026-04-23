@@ -1,0 +1,2 @@
+# POS-eMenu
+A premium digital menu SaaS for restaurants featuring POS, kitchen display, customer menu, and admin control.
